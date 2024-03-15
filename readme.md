@@ -1,3 +1,3 @@
-###### Mukhriddin Khodeiff (work)
+###### Mukhriddin Khodiev (work)
 
 <code>Github</code>
