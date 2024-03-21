@@ -1,13 +1,13 @@
 ###### Mukhriddin Khodiev (work)
 
-<code>Github</code>
-<code>Linear</code>
-<code>Sprint</code>
-<code>Test</code>
+<code>Coding</code>
+<code>Reading</code>
+<code>Learning</code>
+<code>Repeat</code>
 <code>Success</code>
 <code> 🖤 </code>
 
-<div style="display:flex">
+<div style="display:flex; gap:5px;">
 <img src="./images/visual-studio-code.png" width="32"/>
 <img src="./images/html.png" width="32"/>
 <img src="./images/tailwind.png" width="32"/>
