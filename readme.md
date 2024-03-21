@@ -7,6 +7,7 @@
 <code>Success</code>
 <code> 🖤 </code>
 
+<div style="display:flex">
 <img src="./images/visual-studio-code.png" width="32"/>
 <img src="./images/html.png" width="32"/>
 <img src="./images/tailwind.png" width="32"/>
@@ -18,3 +19,4 @@
 <img src="./images/php.png" width="32"/>
 <img src="./images/nodejs.png" width="32"/>
 <img src="./images/nestjs.png" width="32"/>
+</div>
