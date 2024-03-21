@@ -4,6 +4,7 @@
 <code>Reading</code>
 <code>Learning</code>
 <code>Repeat</code>
+<code>Pray</code>
 <code>Success</code>
 <code> 🖤 </code>
 
