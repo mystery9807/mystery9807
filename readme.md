@@ -14,6 +14,7 @@
 <img src="./images/typescript.png" width="32"/>
 <img src="./images/react.png" width="32"/>
 <img src="./images/vue.png" width="32"/>
+<img src="./images/angularjs.png" width="32"/>
 <img src="./images/php.png" width="32"/>
 <img src="./images/nodejs.png" width="32"/>
 <img src="./images/nestjs.png" width="32"/>
